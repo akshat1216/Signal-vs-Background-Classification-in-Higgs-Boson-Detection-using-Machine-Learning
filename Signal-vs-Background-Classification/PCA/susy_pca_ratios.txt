@@ -1,0 +1,14 @@
+Optimal number of components: 10
+Variance retained: 96.09%
+
+Explained Variance Ratios:
+0    0.214691
+1    0.146820
+2    0.126269
+3    0.117493
+4    0.098820
+5    0.092570
+6    0.059183
+7    0.053706
+8    0.031770
+9    0.019569
